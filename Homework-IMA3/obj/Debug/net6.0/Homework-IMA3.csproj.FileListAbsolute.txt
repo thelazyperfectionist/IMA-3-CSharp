@@ -1,0 +1,14 @@
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\bin\Debug\net6.0\Homework-IMA3.exe
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\bin\Debug\net6.0\Homework-IMA3.deps.json
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\bin\Debug\net6.0\Homework-IMA3.runtimeconfig.json
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\bin\Debug\net6.0\Homework-IMA3.dll
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\bin\Debug\net6.0\Homework-IMA3.pdb
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\obj\Debug\net6.0\Homework-IMA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\obj\Debug\net6.0\Homework-IMA3.AssemblyInfoInputs.cache
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\obj\Debug\net6.0\Homework-IMA3.AssemblyInfo.cs
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\obj\Debug\net6.0\Homework-IMA3.csproj.CoreCompileInputs.cache
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\obj\Debug\net6.0\Homework-IMA3.dll
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\obj\Debug\net6.0\refint\Homework-IMA3.dll
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\obj\Debug\net6.0\Homework-IMA3.pdb
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\obj\Debug\net6.0\Homework-IMA3.genruntimeconfig.cache
+C:\Users\anita\source\repos\Homework-IMA3\Homework-IMA3\obj\Debug\net6.0\ref\Homework-IMA3.dll
